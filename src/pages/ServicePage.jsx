@@ -32,7 +32,7 @@ const ServicePage = () => {
           <div className="menu-body">
             <div className="logo">
               <a href="/">
-                <img src="src/img/logo/main_logo.jpg" alt="" />
+                <img src="/img/logo/main_logo.jpg" alt="" />
               </a>
             </div>
 
@@ -136,7 +136,7 @@ const ServicePage = () => {
 
           <div class="services__row">
             <div class="service-b">
-              <img class="service-b__img" src="src/img/mixer.jpeg" alt="" />
+              <img class="service-b__img" src="/img/mixer.jpeg" alt="" />
               <div class="service-b__text">
                 <div>
                   <p>Բետոնի առաքում </p>
@@ -271,55 +271,55 @@ const ServicePage = () => {
             <div class="slider-box">
               <div class="slider-big">
                 <div class="slider__item">
-                  <img src="src/img/slider_img/1.jpeg" alt="" />
+                  <img src="/img/slider_img/1.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/2.jpeg" alt="" />
+                  <img src="/img/slider_img/2.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/3.jpeg" alt="" />
+                  <img src="/img/slider_img/3.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/4.jpeg" alt="" />
+                  <img src="/img/slider_img/4.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/5.jpeg" alt="" />
+                  <img src="/img/slider_img/5.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/6.jpeg" alt="" />
+                  <img src="/img/slider_img/6.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/7.jpeg" alt="" />
+                  <img src="/img/slider_img/7.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/8.jpeg" alt="" />
+                  <img src="/img/slider_img/8.jpeg" alt="" />
                 </div>
               </div>
 
               <div class="slider-small">
                 <div class="slider__item">
-                  <img src="src/img/slider_img/1.jpeg" alt="" />
+                  <img src="/img/slider_img/1.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/2.jpeg" alt="" />
+                  <img src="/img/slider_img/2.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/3.jpeg" alt="" />
+                  <img src="/img/slider_img/3.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/4.jpeg" alt="" />
+                  <img src="/img/slider_img/4.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/5.jpeg" alt="" />
+                  <img src="/img/slider_img/5.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/6.jpeg" alt="" />
+                  <img src="/img/slider_img/6.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/7.jpeg" alt="" />
+                  <img src="/img/slider_img/7.jpeg" alt="" />
                 </div>
                 <div class="slider__item">
-                  <img src="src/img/slider_img/8.jpeg" alt="" />
+                  <img src="/img/slider_img/8.jpeg" alt="" />
                 </div>
               </div>
             </div>

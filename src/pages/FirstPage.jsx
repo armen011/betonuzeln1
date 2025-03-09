@@ -32,7 +32,7 @@ const FirstPage = () => {
           <div className="menu-body">
             <div className="logo">
               <a href="/">
-                <img src="src/img/logo/main_logo.jpg" alt="" />
+                <img src="/img/logo/main_logo.jpg" alt="" />
               </a>
             </div>
 
@@ -185,7 +185,7 @@ const FirstPage = () => {
               </div>
 
               <div className="products-services__crimea-map">
-                <img src="src/img/background.jpg" alt="" />
+                <img src="/img/background.jpg" alt="" />
                 <div className="crimea-map__count">
                   <p>150</p>
                   <span>
@@ -404,7 +404,7 @@ const FirstPage = () => {
             <div className="slider__item">
               <div className="item__box">
                 <img
-                  src="src/img/karusel/1.jpeg"
+                  src="/img/karusel/1.jpeg"
                   alt=""
                   style={{ width: "100%", height: "100%" }}
                 />
@@ -413,7 +413,7 @@ const FirstPage = () => {
             <div className="slider__item">
               <div className="item__box">
                 <img
-                  src="src/img/karusel/1.jpeg"
+                  src="/img/karusel/1.jpeg"
                   alt=""
                   style={{ width: "100%", height: "100%" }}
                 />
@@ -422,7 +422,7 @@ const FirstPage = () => {
             <div className="slider__item">
               <div className="item__box">
                 <img
-                  src="src/img/karusel/3.jpeg"
+                  src="/img/karusel/3.jpeg"
                   alt=""
                   style={{ width: "100%", height: "100%" }}
                 />
@@ -431,7 +431,7 @@ const FirstPage = () => {
             <div className="slider__item">
               <div className="item__box">
                 <img
-                  src="src/img/karusel/4.jpeg"
+                  src="/img/karusel/4.jpeg"
                   alt=""
                   style={{ width: "100%", height: "100%" }}
                 />
@@ -440,7 +440,7 @@ const FirstPage = () => {
             <div className="slider__item">
               <div className="item__box">
                 <img
-                  src="src/img/karusel/5.jpeg"
+                  src="/img/karusel/5.jpeg"
                   alt=""
                   style={{ width: "100%", height: "100%" }}
                 />

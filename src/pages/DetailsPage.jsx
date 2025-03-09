@@ -32,7 +32,7 @@ const DetailsPage = () => {
           <div className="menu-body">
             <div className="logo">
               <a href="/">
-                <img src="src/img/logo/main_logo.jpg" alt="" />
+                <img src="/img/logo/main_logo.jpg" alt="" />
               </a>
             </div>
 
@@ -316,55 +316,55 @@ const DetailsPage = () => {
             <div className="slider-box">
               <div className="slider-big">
                 <div className="slider__item">
-                  <img src="src/img/slider_img/1.jpeg" alt="" />
+                  <img src="/img/slider_img/1.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/2.jpeg" alt="" />
+                  <img src="/img/slider_img/2.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/3.jpeg" alt="" />
+                  <img src="/img/slider_img/3.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/4.jpeg" alt="" />
+                  <img src="/img/slider_img/4.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/5.jpeg" alt="" />
+                  <img src="/img/slider_img/5.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/6.jpeg" alt="" />
+                  <img src="/img/slider_img/6.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/7.jpeg" alt="" />
+                  <img src="/img/slider_img/7.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/8.jpeg" alt="" />
+                  <img src="/img/slider_img/8.jpeg" alt="" />
                 </div>
               </div>
 
               <div className="slider-small">
                 <div className="slider__item">
-                  <img src="src/img/slider_img/1.jpeg" alt="" />
+                  <img src="/img/slider_img/1.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/2.jpeg" alt="" />
+                  <img src="/img/slider_img/2.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/3.jpeg" alt="" />
+                  <img src="/img/slider_img/3.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/4.jpeg" alt="" />
+                  <img src="/img/slider_img/4.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/5.jpeg" alt="" />
+                  <img src="/img/slider_img/5.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/6.jpeg" alt="" />
+                  <img src="/img/slider_img/6.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/7.jpeg" alt="" />
+                  <img src="/img/slider_img/7.jpeg" alt="" />
                 </div>
                 <div className="slider__item">
-                  <img src="src/img/slider_img/8.jpeg" alt="" />
+                  <img src="/img/slider_img/8.jpeg" alt="" />
                 </div>
               </div>
             </div>
